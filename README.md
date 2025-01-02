@@ -5,7 +5,7 @@ This guide will help you set up and run the Image-Validation project.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Chitosei/Image-Validation.git](https://github.com/Chitosei/Image-Validation.git
+git clone https://github.com/Chitosei/Image-Validation.git
 cd src
 ```
 
