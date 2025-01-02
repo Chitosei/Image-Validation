@@ -39,4 +39,4 @@ For Windows users with PowerShell, follow these steps to configure Ngrok with an
 ```PowerShell
 ngrok config add-authtoken 2qjW77o8y7OwHjXUnrj9MN40XkU_3JJNRnSFDhxroDNrjo23S
 ```
-Important: Replace 2qjW77o8y7OwHjXUnrj9MN40XkU_3JJNRnSFDhxroDNrjo23S with your own Ngrok authtoken. You can obtain your authtoken from the Ngrok dashboard.
+Important: Replace ```2qjW77o8y7OwHjXUnrj9MN40XkU_3JJNRnSFDhxroDNrjo23S``` with your own Ngrok authtoken. You can obtain your authtoken from the Ngrok dashboard.
